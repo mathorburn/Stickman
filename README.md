@@ -11,3 +11,7 @@ https://la.disneyresearch.com/publication/stickman/
 
 Set up for engineering design students to begin to build their own Simulink models as they develop their acrobot projects
 
+Second video (Simscape Model):    
+
+https://user-images.githubusercontent.com/28127137/204912631-cc235c07-9cf6-4a8e-bc6e-7bf03240f381.mp4
+
