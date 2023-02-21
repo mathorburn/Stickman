@@ -16,3 +16,4 @@ Second video (Simscape Model):
 https://youtu.be/dswuXiOhn1E
 
 
+Latest Program:   Optimizes release time for either time-of-flight or distance traveled.   This is a basic center-of-mass problem.
